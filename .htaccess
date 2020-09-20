@@ -1,2 +1,3 @@
 RewriteEngine on
+## EACH TIME USER TYPES usuarios/ THE SERVER WILL REDIRECT TO usuarios/controller.php
 RewriteRule ^usuarios/ usuarios/controller.php
